@@ -16,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Unit Test" />
+        <option value="Python pytest" />
       </list>
     </option>
   </component>
@@ -40,7 +41,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable",
+    "settings.editor.selected.configurable": "fileTemplates",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -61,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1715447185779</updated>
       <workItem from="1715447186799" duration="74000" />
-      <workItem from="1715447448001" duration="2223000" />
+      <workItem from="1715447448001" duration="3572000" />
     </task>
     <servers />
   </component>
