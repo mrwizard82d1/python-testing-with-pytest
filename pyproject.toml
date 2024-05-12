@@ -8,6 +8,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
+cards = {path = "cards_proj"}
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.2.0"
