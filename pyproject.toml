@@ -5,7 +5,7 @@ description = "Code from the book, \"Python Testing with pytest\", 2nd ed."
 authors = ["Larry Jones <mrwizard82d1@gmail.com>"]
 license = "MIT"
 readme = "README.md"
-packages = [{include = "cards", from = "src"}]
+packages = [{include = "cards"}]
 
 [tool.poetry.dependencies]
 python = "^3.12"
