@@ -12,7 +12,3 @@ def db(tmp_path_factory):
     yield db_
 
     db_.close()
-
-
-def test_empty(db):
-    assert db.count() == 0
